@@ -24,5 +24,16 @@ An AI-based Movie Recommendation System developed during my Artificial Intellige
 ## Note
 Some large datasets and similarity files were excluded due to GitHub upload size limitations.
 
+## Project Screenshots
+
+### Application Interface
+![Application Interface](Screenshot 2026-04-14 152517.png)
+
+### User Input
+![User Input](Screenshot 2026-04-14 152557.png)
+
+### Recommendation Output
+![Recommendation Output](Screenshot 2026-04-14 152604.png)
+
 ## Developed By
 Bishakha Karmakar
